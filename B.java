@@ -3,7 +3,7 @@ package GPL2018;
 import java.util.*;
 
 @SuppressWarnings ("resource")
-class B {
+public class B {
 
     public static void main (String[] args) throws Exception {
     	
